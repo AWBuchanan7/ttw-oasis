@@ -22,4 +22,4 @@ Other Oasis tweaks:
 
 # Usage/Terms
 
-Subject to the terms of Bethesda's EULA. Please see the 'Permissions' section on [https://www.nexusmods.com/newvegas/mods/67898].
+Subject to the terms of Bethesda's EULA. Please see the 'Permissions' section on the mod's [NexusMods page](https://www.nexusmods.com/newvegas/mods/67898).
