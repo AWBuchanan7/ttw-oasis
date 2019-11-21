@@ -22,4 +22,4 @@ Other Oasis tweaks:
 
 # Usage/Terms
 
-Subject to the terms of Bethesda's EULA. There is no restriction on the distribution of my mods so long as they are kept intact with all their files and the readme. If you do upload or redistribute the mod, you take responsibility for ensuring that you have the latest version, and of uploading any subsequent versions of the mod that are released.
+Subject to the terms of Bethesda's EULA. Please see the 'Permissions' section on [https://www.nexusmods.com/newvegas/mods/67898].
