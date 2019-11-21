@@ -6,7 +6,7 @@ This is a port of princess_stomper's Oasis Player Home mod﻿, with some additio
 The new player home is called 'Solace' and is in the cell 'OasisTrees'. Inside there are two types of cloth sacks: those used as storage, and those that are scripted—they have scripts for "My First Infimary", "My First Lab", and the workbench. The scripted sacks are given unique names such as 'Sack of Tools', etc.
 
 Other Oasis tweaks:
-* The shallow surface waters of Oasis are less radioactive to drink (only 3 rads instead of 5)!
+* The shallow surface waters of Oasis are less radioactive both to drink and walk/swim in!
 * There is also a (crafting) campfire added near some of the beds.
 
 # Credits
